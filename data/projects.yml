@@ -1,0 +1,17 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    name: Jukebox
+    link: https://www.github.com/mgiannella/jukebox
+    description: Designed with a group of two other developers for HackRU. This is a collaborative music queue written in Python that uses the Flask module to handle web requests. The application allows users to add, up, and downvote songs from the Spotify API, and the song with the highest score is played next on a BOSE SoundTouch speaker.
+
+  - icon: fa fa-github
+    name: Rutgers Dining Hall Nutrition Info Scraper
+    link: https://www.github.com/mgiannella/ru-dh-scraper
+    description: This a personal project designed by me, and written in Python. The multithreaded scraper enlists the requests and beautifulsoup4 modules to pull in nutrition information from the Rutgers Dining Hall websites and store it all in an easily readable json file.
+
+  - icon: fa fa-link
+    name: S.W.I.S. (Smart Water Irrigation System)
+    link: 
+    description: Collaborated with a group of five other students to design an automated plant watering device using an Arduino microcontroller. Using a moisture sensor, the Arduino would trigger a pump connected to a reservoir when the moisture levels were not in the correct range. 
+  

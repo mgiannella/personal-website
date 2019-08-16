@@ -1,0 +1,49 @@
+baseurl = "https://example.com/"
+languageCode = "en-US"
+title = "Michael Giannella"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+enableRobotsTXT = true
+canonifyURLs = true
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Michael Giannella"
+  description = "Describe your Website"
+  position = "Computer Engineering student"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "mgiannella"
+  Email         = "contact@michaelgiannella.com"
+  LinkedIn      = "michael-giannella"
+
+
+## Main Menu
+[[menu.main]]
+  name = "about"
+  weight = 100
+  identifier = "about"
+  url = "/about/"
+  target = false
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+  target = false
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/resume.pdf"
+  

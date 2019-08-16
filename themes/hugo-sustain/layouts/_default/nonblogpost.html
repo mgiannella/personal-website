@@ -1,0 +1,15 @@
+<section id="about">
+  <div class="container">
+    <h3>{{ .Title }}</h3>
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <div class="blogpost">
+          {{if (isset .Params "image")}}
+          <img src="{{ .Params.Image }}" style="float:right">
+          {{ end }}
+          {{ .Content }}
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
