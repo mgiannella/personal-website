@@ -7,7 +7,7 @@ slug: "about"
 nonblogpost: true
 ---
 
-My name is Michael Giannella, and I am a Junior Computer Engineering student at [Rutgers University][ru] in New Brunswick, NJ. On campus, I am involved in the [Institute of Electrical and Electronics Engineers (IEEE)][ieee] club as a [N2E][n2e] Python instructor, where I teach weekly classes to undergraduates looking to expand their skillset. I also play intramural basketball and flag football. Outside of school, I've worked at [Amazon][azn] and [Prudential Global Investment Management][pgim].
+My name is Michael Giannella, and I am a Senior Computer Engineering student at [Rutgers University][ru] in New Brunswick, NJ. On campus, I am involved in the [Institute of Electrical and Electronics Engineers (IEEE)][ieee] club as a [N2E][n2e] Python instructor, where I teach weekly classes to undergraduates looking to expand their skillset. I also play intramural basketball and flag football. Outside of school, I've worked at [Amazon][azn] and [Prudential Global Investment Management][pgim].
 
 <!--This past summer, I worked at [Prudential Global Investment Management][pgim] in the Investments Technology department. I worked on a team that was redesigning monolithic applications and processes and converting them to a microservice architecture all connected through a central portal. As an Application and Systems Development intern, I worked on a web application for calculating dividend payout dates, I administered Windows servers, and I wrote scripts to automate processes on the servers, such as vital reporting and TFS release reporting.-->
 

@@ -10,8 +10,9 @@ source:
     link: https://www.github.com/mgiannella/ru-dh-scraper
     description: This a personal project designed by me, and written in Python. The multithreaded scraper enlists the requests and beautifulsoup4 modules to pull in nutrition information from the Rutgers Dining Hall websites and store it all in an easily readable json file.
 
-  - icon: fa fa-link
-    name: S.W.I.S. (Smart Water Irrigation System)
-    link: 
-    description: Collaborated with a group of five other students to design an automated plant watering device using an Arduino microcontroller. Using a moisture sensor, the Arduino would trigger a pump connected to a reservoir when the moisture levels were not in the correct range. 
+  - icon: fa fa-github
+    name: Student Housing Solution
+    link: https://github.com/mgiannella/StudentHousingSolution-App
+    description: Application designed on a team using Spring Boot and React to facilitate sourcing and renting off campus housing on both the tenant and landlord side. Allows for payments, maintenance requests, as well as finding/listing properties and scheduling visits.
+ 
   
